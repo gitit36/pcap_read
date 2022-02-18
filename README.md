@@ -12,3 +12,8 @@ The program will skip:
 
 1. Global Header (24 bytes)
 3. Record Header (16 bytes) + Ethernet Header (14 bytes) + ID header (20 bytes)
+
+To Run:
+
+1. Compile your program: gcc read_pcap.c
+2. Run the exec file with the given PCAP file as an arg: ./a.out capture1.pcap
