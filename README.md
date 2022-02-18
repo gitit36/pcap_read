@@ -20,6 +20,6 @@ To Run:
 gcc read_pcap.c
 ```
 4. Run the exec file with the given PCAP file as an arg: 
-``
+```
 ./a.out capture1.pcap
 ```
